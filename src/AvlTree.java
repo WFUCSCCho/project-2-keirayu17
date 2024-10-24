@@ -1,3 +1,10 @@
+/***
+ * @file: AvlTree.java
+ * @description:Implementation of an AVL tree. Contains basic functions and
+ *              rotating operations of the tree.
+ * @author: Keira Yu
+ * @date: October 24, 2024
+ */
 // AvlTree class
 //
 // CONSTRUCTION: with no initializer

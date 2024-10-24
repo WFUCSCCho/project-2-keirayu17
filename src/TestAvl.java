@@ -1,3 +1,9 @@
+/***
+ * @file: TestAvl.java
+ * @description: A testing program for the AVL tree.
+ * @author: Keira Yu
+ * @date: October 24, 2024
+ */
 public class TestAvl {
     // Test program
     public static void main( String [ ] args ) {
